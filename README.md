@@ -1,11 +1,11 @@
 ## test
 ![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,20&type=waving&text=WebPublisher)
-<h1 align="center">Hi 👋, I'm YangEunChae</h1>
+<h1 align="center">Hi 👋, I'm YangEunChaeh</h1>
 <h3 align="center">저는 편리함을 우선시 생각하는 퍼블리셔입니다.</h3>
 
 - :yellow_heart: I’m currently learning **Typescript, React, NodeJS, DataBase**
 
-- :blue_heart:💻 All of my projects are available at [https://github.com/yangeunc](https://github.com/yangeunc)
+- :blue_heart:💻 All of my projects are available at [https://github.com/yangeunch](https://github.com/yangeunch)
 
 - :purple_heart: Ask me about **HTML, CSS, Javascript, SCSS**
 
@@ -20,6 +20,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangeunc&theme=transparent&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangeunch&theme=transparent&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangeunch)](https://github.com/anuraghazra/github-readme-stats)
