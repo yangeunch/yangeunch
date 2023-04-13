@@ -22,4 +22,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangeunc&theme=transparent&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangeunc)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangeunch)](https://github.com/anuraghazra/github-readme-stats)
