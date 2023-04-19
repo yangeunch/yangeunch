@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,20&type=waving&text=WebPublisher)
+![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=#C6FFDD,#FBD786,#f7797d&type=waving&text=WebPublisher)
 <h1 align="center">Hi 👋, I'm YangEunChaeh</h1>
 <h3 align="center">저는 편리함을 우선시 생각하는 퍼블리셔입니다.</h3>
 
